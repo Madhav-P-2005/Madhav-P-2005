@@ -10,7 +10,9 @@
 📫 How to reach me :-  [madhavp2023@gmail.com]
 
 ## Skills
-- Programming Languages: Python, JavaScript, HTML , CSS , Java , C , SQL . 
+- Programming Languages:
+- ![Python](https://i.imgur.com/4M8Tos4.png)
+- JavaScript, HTML , CSS , Java , C , SQL . 
 - Frameworks: React, Django, Express.js , Node.js . 
 - Databases :- MongoDB , MySQL . 
 
