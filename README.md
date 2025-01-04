@@ -3,11 +3,11 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true)
 
 ## About Me
-👋 Hi, I’m @YMadhav-P-2005 
-👀 I’m Currently interested in Full Stack Web Development 
-🌱 I’m currently learning Python , Javascript , React and Django
-💞️ I’m looking to collaborate on many projects , ideas from all over the world  
-📫 How to reach me: [madhavp2023@gmail.com]
+👋 Hi, I’m @Madhav-P-2005 
+👀 I’m Currently interested in Full Stack Web Development .
+🌱 I’m currently learning Python , Javascript , React and Django.
+💞️ I’m looking to collaborate on many projects , ideas from all over the world . 
+📫 How to reach me :-  [madhavp2023@gmail.com]
 
 ## Skills
 - Programming Languages: Python, JavaScript, HTML , CSS , Java , C , SQL . 
