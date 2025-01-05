@@ -9,10 +9,11 @@
 💞️ I’m looking to collaborate on many projects , ideas from all over the world . 
 📫 How to reach me :-  [madhavp2023@gmail.com]
 
+![Meet My Mr.Robo](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)
+
 ## Skills
 - Programming Languages:
-- ![Python](https://i.imgur.com/4M8Tos4.png)
-- JavaScript, HTML , CSS , Java , C , SQL . 
+- Python,  JavaScript, HTML , CSS , Java , C , SQL . 
 - Frameworks: React, Django, Express.js , Node.js . 
 - Databases :- MongoDB , MySQL . 
 
