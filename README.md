@@ -1,12 +1,10 @@
-<h1 align="center">Namaste 🙏, Aspiring Full Stack Developer & Tech Enthusiast 🚀</h1>
+<h1 align="center">Namaste 🙏, Aspiring Full Stack Web Developer & Tech Enthusiast 🚀</h1>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Madhav-P-2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="right" height="277" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)                           <img align="right" height="277" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 ### 👩‍💻 About Me
 
