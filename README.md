@@ -104,3 +104,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Madhav-P-2005&icon=0&color=0)](https://visitcount.itsvg.in)
