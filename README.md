@@ -1,8 +1,7 @@
 <h1 align="center">Namaste 🙏, Aspiring Full Stack Web Developer & Tech Enthusiast 🚀</h1>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Madhav-P-2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=Madhav-P-2005&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=Madhav-P-2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)                           <img align="right" height="277" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -88,11 +87,10 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=dark&hide_border=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Madhav-P-2005&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav-P-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=dark&hide_border=false)<br/>
+![GitHub Streaks 2.0](https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)<br/>
+![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav-P-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Madhav-P-2005&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
