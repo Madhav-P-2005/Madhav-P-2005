@@ -90,6 +90,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=dark&hide_border=false)<br/>
 ![GitHub Streaks 2.0](https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=FFA500&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)<br/>
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav-P-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
