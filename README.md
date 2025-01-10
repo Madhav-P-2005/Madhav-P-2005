@@ -95,6 +95,7 @@
 <br/>
 
 ![Github Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast)<br/>
+![Github Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast&hide_border=false)<br/>
 
 
 
