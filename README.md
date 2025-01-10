@@ -121,10 +121,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/madhav-p-156b9b290?l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhav-p-156b9b290?l" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhav-p-2005&show_icons=true&locale=en&layout=compact" alt="madhav-p-2005" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&layout=compact" alt="madhav-p-2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav-p-2005&show_icons=true&locale=en" alt="madhav-p-2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en" alt="madhav-p-2005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-p-2005&" alt="madhav-p-2005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&" alt="madhav-p-2005" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=Madhav-P-2005&icon=0&color=0)](https://visitcount.itsvg.in)
