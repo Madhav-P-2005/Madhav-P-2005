@@ -89,7 +89,7 @@
 </div>
 
 # 📊 GitHub Stats:
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=tokyo_night" alt="Madhav-P-2005" /></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Madhav-P-2005" /></p>  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Madhav-P-2005" /></p>
 <br/>
 
