@@ -110,11 +110,11 @@
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Commit" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhav-P-2005&theme=highcontrast&utcOffset=8" alt="Commits Graph" /></td>
+    <td colspan="2" align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhav-P-2005&theme=highcontrast&utcOffset=8" alt="Commits Graph" /></td>
   </tr>
   <tr>
     <td><img src="https://github-contributor-stats.vercel.app/api?username=Madhav-P-2005&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Contributor Stats" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madhav-P-2005&theme=highcontrast" alt="Stats" /></td>
+    <td align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madhav-P-2005&theme=highcontrast" alt="Stats" /></td>
   </tr>
 </table>
 
