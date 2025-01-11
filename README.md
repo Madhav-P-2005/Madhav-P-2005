@@ -92,10 +92,9 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=cobalt&background=000000&border=7536B2&stroke=9243DD" alt="Madhav-P-2005" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=FFA500&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="Madhav-P-2005" />
 </div>
 
-<marquee>My GitHub Streak 🔥</marquee>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=FFA500&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="Madhav-P-2005" />
 </div>
