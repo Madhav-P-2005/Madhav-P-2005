@@ -92,7 +92,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=cobalt&background=000000&border=7536B2&stroke=9243DD" alt="Madhav-P-2005" />
 </div>
 
 <marquee>My GitHub Streak 🔥</marquee>
