@@ -89,14 +89,50 @@
 </div>
 
 # 📊 GitHub Stats:
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Madhav-P-2005" /></p>  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Madhav-P-2005" /></p>
-<br/>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Madhav-P-2005&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)<br/>
-
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <marquee>My GitHub Streak 🔥</marquee>
+      <br/>
+      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=FFA500&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Madhav-P-2005" />
+    </td>
+    <td align="right">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Madhav-P-2005" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=highcontrast)
+    </td>
+    <td align="right">
+      ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhav-P-2005&theme=highcontrast)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      ![Commits Graph](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhav-P-2005&theme=highcontrast&utcOffset=8)
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      ![Contributor-stats](https://github-contributor-stats.vercel.app/api?username=Madhav-P-2005&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+    </td>
+    <td align="right">
+      ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madhav-P-2005&theme=highcontrast)
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Connect With Me
 
