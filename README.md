@@ -89,7 +89,7 @@
 
 ### 🔧 Version Control & Platforms
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-<img width="12" /> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="40" alt="GitHub logo" /> </div>
+<img width="12" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="40" alt="GitHub logo" /> </div>
 
 ### 🎨 Design Tools I Use
 <div align="left">
