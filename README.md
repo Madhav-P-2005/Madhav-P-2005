@@ -89,7 +89,7 @@
 </div>
 
 
-# 📊 GitHub Stats:
+<h1> <bg-color:"pink"> # 📊 GitHub Stats: </h1>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast&background=000000&border=7536B2&stroke=9243DD&ring=FFA500&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="Madhav-P-2005" />
