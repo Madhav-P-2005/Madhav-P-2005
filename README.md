@@ -90,8 +90,11 @@
 </div>
 
 ### 🔧 Version Control & Platforms
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-<img width="12" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="40" alt="GitHub logo" /> </div>
+<div align="left"> 
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+<img width="12" />
+    <img width="49" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
+</div>
 
 ### 🎨 Design Tools I Use
 <div align="left">
@@ -107,9 +110,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
 </div>
+<br>
 
 <table> 
   <tr>
