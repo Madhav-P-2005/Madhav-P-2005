@@ -108,7 +108,7 @@
 </div>
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Madhav-P-2005&theme=highcontrast&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
 </div>
 
 <table> 
