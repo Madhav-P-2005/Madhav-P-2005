@@ -139,7 +139,8 @@
     generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn" height="40" width="50" /></a>
     <a href="https://www.hackerrank.com/madhavp2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
     generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhav's HackerRank" height="40" width="50" /></a>
-    <a href="https://www.interviewbit.com/profile/dl2ug3ndk6" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/200/interviewbit.png" alt="Madhav's HackerRank" height="40" width="50" /> 
+    <a href="https://www.interviewbit.com/profile/dl2ug3ndk6" target="_blank"><img align="center" src="<"img width="500" height="500" src="https://img.icons8.com/plasticine/500/interviewbit.png" 
+    alt="interviewbit" alt="Madhav's Interviewbit"  /> 
     </a>
     <a href="https://www.madhavp2023@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" 
     height="40" alt="gmail logo"/></a>
