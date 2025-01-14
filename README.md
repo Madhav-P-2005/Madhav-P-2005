@@ -121,12 +121,12 @@
 
 <table> 
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" /></td>
-    <td><img height="300px" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /></td>
+    <td><img height="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" /></td>
+    <td><img height="500px" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /></td>
   </tr>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Repo" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Commit" /></td>
+    <td><img height="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Repo" /></td>
+    <td><img height="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Commit" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhav-P-2005&theme=highcontrast&utcOffset=8" alt="Commits Graph" /></td>
