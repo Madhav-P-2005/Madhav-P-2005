@@ -94,7 +94,7 @@
 ### 🔧 Version Control & Platforms
 <div align="left"> 
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
-<img width="15" />
+    <img width="15" />
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
 </div>
 
