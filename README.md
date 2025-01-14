@@ -115,14 +115,14 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=cobalt" alt="Madhav-P-2005" />
 </div>
 <br>
 
 <table> 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /></td>
+    <td><img height="300px" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /></td>
   </tr>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Repo" /></td>
