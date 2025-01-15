@@ -19,6 +19,7 @@
 <br>
 
 ### 🛠 Languages I Use
+
 <div align="left">
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
       <img width="15" />
@@ -37,6 +38,7 @@
 
 
 ### 🧰 Frameworks I Use
+
 <div align="left">
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React.js"/>
   <img width="15" />
@@ -56,6 +58,7 @@
 </div>
 
 ### 🗄️ Databases I Use
+
 <div align="left">
   <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
   <img width="15" />
@@ -67,6 +70,7 @@
 </div>
 
 ### ✨ Development Tools & IDEs
+
 <div align="left">
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img width="15"/>
@@ -82,6 +86,7 @@
 </div>
 
 ### 🤖 AI & ML 
+
 <div align="left">
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
     <img width="15"/>
@@ -89,6 +94,7 @@
 </div>
 
 ### 📡 Servers
+
 <div align="left">
   <a href="https://www.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="50" alt="Apache logo" /></a>
   <img width="15" />
@@ -96,6 +102,7 @@
 </div>
 
 ### 🔧 Version Control & Platforms
+
 <div align="left"> 
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
     <img width="15" />
@@ -103,6 +110,7 @@
 </div>
 
 ### 🎨 Design Tools I Use
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   <img width="15"/>
@@ -115,6 +123,7 @@
 
 
 # 📊 GitHub Stats :
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
 </div>
@@ -146,12 +155,14 @@
 
 
 # 💪 Projects :- 
+
 <h1> Coming Soon .... </h1>
 <br>
 
 
 
 ### 🌐 Connect With Me
+
 <div align="left">
   <p align="left">
     <a href="https://www.linkedin.com/in/madhav-p-156b9b290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn" height="50" width="60" /></a>
