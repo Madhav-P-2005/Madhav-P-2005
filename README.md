@@ -15,10 +15,10 @@
 - 🌐 Practicing coding challenges and Questions on Hackerrank, InterviewBit, GeeksforGeeks, LeetCode.
 - ⚡ In my free time: Watching YouTube (Informative Videos on geopolitics, politics, technology, social causes, news, etc.), a movie and music buff.
 - 🎯 Goals: Develop and build top-notch websites, contribute to open-source projects, manage personal finance.
-<br/>
+  
+<br>
+
 ### 🛠 Languages I Use
-
-
 <div align="left">
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
       <img width="15" />
@@ -37,7 +37,6 @@
 
 
 ### 🧰 Frameworks I Use
-
 <div align="left">
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React.js"/>
   <img width="15" />
@@ -57,7 +56,6 @@
 </div>
 
 ### 🗄️ Databases I Use
-
 <div align="left">
   <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
   <img width="15" />
@@ -118,7 +116,6 @@
 
 
 # 📊 GitHub Stats :
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
 </div>
@@ -150,10 +147,8 @@
 
 # 💪 Projects :- 
 <h1> Coming Soon .... </h1>
-
-
+<br>
 ### 🌐 Connect With Me
-
 <div align="left">
   <p align="left">
     <a href="https://www.linkedin.com/in/madhav-p-156b9b290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn" height="50" width="60" /></a>
