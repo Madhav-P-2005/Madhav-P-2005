@@ -122,7 +122,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=cobalt" alt="Madhav-P-2005" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Madhav-P-2005&theme=cobalt" alt="Madhav-P-2005" />
 </div>
 <br>
 
