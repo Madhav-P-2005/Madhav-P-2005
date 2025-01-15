@@ -67,7 +67,6 @@
 </div>
 
 ### ✨ Development Tools & IDEs
-
 <div align="left">
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img width="15"/>
@@ -105,13 +104,13 @@
 
 ### 🎨 Design Tools I Use
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   <img width="15"/>
   <img width="40" src="https://cdn.brandfetch.io/idyMsPa8oV/w/180/h/180/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Excaildraw" title="Excaildraw"/>
   <img width="15"/>  
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" alt="draw.io" title="draw.io"/>
   <img width="15"/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="5" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
 
@@ -145,9 +144,13 @@
   </tr>
 </table>
 
+
 # 💪 Projects :- 
 <h1> Coming Soon .... </h1>
 <br>
+
+
+
 ### 🌐 Connect With Me
 <div align="left">
   <p align="left">
