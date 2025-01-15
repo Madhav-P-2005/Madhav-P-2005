@@ -15,7 +15,7 @@
 - 🌐 Practicing coding challenges and Questions on Hackerrank, InterviewBit, GeeksforGeeks, LeetCode.
 - ⚡ In my free time: Watching YouTube (Informative Videos on geopolitics, politics, technology, social causes, news, etc.), a movie and music buff.
 - 🎯 Goals: Develop and build top-notch websites, contribute to open-source projects, manage personal finance.
-
+<br/>
 ### 🛠 Languages I Use
 
 
@@ -93,9 +93,9 @@
 
 ### 📡 Servers
 <div align="left">
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache logo" /></a>
-  <img width="12" />
-  <a href="http://tomcat.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="Tomcat logo" /></a>
+  <a href="https://www.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="50" alt="Apache logo" /></a>
+  <img width="15" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tomcat.png" alt="Tomcat" title="Tomcat"/>
 </div>
 
 ### 🔧 Version Control & Platforms
@@ -108,7 +108,11 @@
 ### 🎨 Design Tools I Use
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="15" />
+  <img width="15"/>
+  <img width="50" src="https://cdn.brandfetch.io/idyMsPa8oV/w/180/h/180/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Excaildraw" title="Excaildraw"/>
+  <img width="15"/>  
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" alt="draw.io" title="draw.io"/>
+  <img width="15"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
@@ -127,8 +131,8 @@
 <br>
 
 <table> 
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" /></td>
+  <tr height="200px" width = "150px">
+    <td><img height = "0px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /></td>
   </tr>
   <tr>
@@ -153,14 +157,22 @@
 <div align="left">
   <p align="left">
     <a href="https://www.linkedin.com/in/madhav-p-156b9b290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn" height="50" width="60" /></a>
+    <img width="15" />
     <a href="https://www.hackerrank.com/madhavp2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhav's HackerRank" height="50" width="60" /></a>
     <a href="https://www.interviewbit.com/profile/dl2ug3ndk6" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/500/interviewbit.png" alt="Madhav's Interviewbit" height="50" width="60" /></a>
+    <img width="15" />
     <a href="mailto:madhavp2023@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Madhav's Gmail" height="50" width="60" /></a>
+    <img width="15" />
     <a href="https://wa.me/919353270062" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="Madhav's WhatsApp" height="50" width="60" /></a>
+    <img width="15" />
     <a href="https://discord.gg/U6KUYXGptw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Madhav's Discord" height="50" width="60" /></a>
+    <img width="15" />
     <a href="https://t.me/Madhavp2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Madhav's Telegram" height="50" width="60" /></a>
+    <img width="15" />
     <a href="https://leetcode.com/u/mp_2005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhav's LeetCode" height="50" width="60" /></a>
+    <img width="15" />
     <a href="https://www.hackerearth.com/@madhav-p" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Madhav's HackerEarth" height="50" width="60" /></a>
+    <img width="15" />
     <a href="https://www.codechef.com/users/madhav_p" target="_blank"><img align="center" src="https://img.icons8.com/fluency/144/codechef.png" alt="Madhav's CodeChef" height="50" width="60" /></a>
   </p>
 </div>
