@@ -84,6 +84,13 @@
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/>
 </div>
 
+### 🤖 AI & ML 
+<div align="left">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
+    <img width="15"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
+</div>
+
 ### 📡 Servers
 <div align="left">
   <a href="https://www.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache logo" /></a>
@@ -101,7 +108,7 @@
 ### 🎨 Design Tools I Use
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
@@ -121,8 +128,8 @@
 
 <table> 
   <tr>
-    <td><img height="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" /></td>
-    <td><img height="500px" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /></td>
+    <td><img height="500px" width="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" /></td>
+    <td><img height="500px" width="200px" src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /></td>
   </tr>
   <tr>
     <td><img height="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Repo" /></td>
