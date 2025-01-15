@@ -47,7 +47,7 @@
   <img width="15" />
   <img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chakra_ui.png" alt="Chakra UI" title="Chakra UI"/>
   <img width="15" />
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/>
+  <img width="50" src="https://img.icons8.com/nolan/512/flask.png" alt="Flask" title="Flask"/>
   <img width="15" />
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/>
   <img width="15" />
