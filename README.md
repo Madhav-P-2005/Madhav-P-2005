@@ -11,9 +11,10 @@
 ### 👩‍💻 About Me
 
 - 🎓 Currently a 2nd-year BCA student at K.L.E, passionate about coding and technology.
-- 📚 Learning: Python, JavaScript, React.js, Django, Node.js, Express.js, MongoDB, Data structures and Algorithms, Cloud services.
+- 📚 Learning: Python, JavaScript, React.js, Django , Flask , REST API , FAST API , Node.js, Express.js, MongoDB, Data structures and Algorithms, Cloud services.
 - 🌐 Practicing coding challenges and Questions on Hackerrank, InterviewBit, GeeksforGeeks, LeetCode.
-- ⚡ In my free time: Watching YouTube (Informative Videos on geopolitics, politics, technology, social causes, news, etc.), a movie and music buff.
+- ⚡ In my free time: A chunk of my time goes into watching informative videos on YouTube, covering topics like geopolitics, technology, religion, culture, history, politics, space, and more. I'm also a 
+      movie and music buff
 - 🎯 Goals: Develop and build top-notch websites, contribute to open-source projects, manage personal finance.
   
 <br>
