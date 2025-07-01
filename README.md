@@ -126,7 +126,7 @@
 # 📊 GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&theme=react-dark" alt="Madhav-P-2005" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true&hide_border=true" alt="Madhav-P-2005" />
 </div>
 
 <br>
