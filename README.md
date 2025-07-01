@@ -126,7 +126,7 @@
 # 📊 GitHub Stats :
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&theme=react-dark" alt="Madhav-P-2005" />
 </div>
 
 <br>
