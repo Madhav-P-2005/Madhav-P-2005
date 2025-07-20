@@ -182,8 +182,6 @@
     <a href="https://leetcode.com/u/mp_2005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhav's LeetCode" height="50" width="60" /></a>
     <img width="15" />
     <a href="https://www.hackerearth.com/@madhav-p" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Madhav's HackerEarth" height="50" width="60" /></a>
-    <img width="15" />
-    <a href="https://www.codechef.com/users/madhav_p" target="_blank"><img align="center" src="https://img.icons8.com/fluency/144/codechef.png" alt="Madhav's CodeChef" height="50" width="60" /></a>
   </p>
 </div>
 
