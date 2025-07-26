@@ -175,7 +175,7 @@
     <img width="15" />
     <a href="https://wa.me/919353270062" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="Madhav's WhatsApp" height="50" width="60" /></a>
     <img width="15" />
-    <a href="https://discord.gg/wHHAA9Vw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Madhav's Discord" height="50" width="60" /></a>
+    <a href="https://discord.gg/dReaKKZpzr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Madhav's Discord" height="50" width="60" /></a>
     <img width="15" />
     <a href="https://t.me/Madhavp2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Madhav's Telegram" height="50" width="60" /></a>
     <img width="15" />
