@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-p-2005&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-p-2005" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Madhav-P-2005&theme=radical&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Madhav-P-2005&theme=radical&margin-w=6)
 
 ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)                           <img align="right" height="277" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
