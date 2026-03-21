@@ -200,35 +200,34 @@ print(me.current_focus())
 <div align="center">
 
 <!-- Activity Graph — full width, clean purple -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&radius=8" width="100%" alt="Contribution Activity"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true" alt="Madhav-P-2005" />
 </div>
 
 <br>
 
 <!-- Row: Streak left | Stats right -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Madhav-P-2005&theme=tokyonight&hide_border=true&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&dates=c4b5fd&sideLabels=a78bfa&background=0d1117&stroke=1e1b4b" height="180" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&theme=tokyonight&hide_border=true&icon_color=a78bfa&title_color=a78bfa&text_color=c4b5fd&bg_color=0d1117&border_radius=8" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <!-- Row: Top Languages compact | Profile Summary card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d1117&border_radius=8&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" />
   &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhav-P-2005&theme=tokyonight&utcOffset=5.5" height="165" alt="Productive Hours"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhav-P-2005&theme=highcontrast&utcOffset=9" alt="Commits Graph" />
 </div>
 
 <br>
 
 <!-- Row: Repos per Language | Most Commit Language -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=tokyonight" height="165" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Repo" />
   &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhav-P-2005&theme=tokyonight" height="165" alt="Most Commit Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhav-P-2005&theme=highcontrast" alt="Top Languages by Commit" />
 </div>
 
 ---
@@ -294,16 +293,23 @@ print(me.current_focus())
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-p-156b9b290)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavp2023@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919353270062)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dReaKKZpzr)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Madhavp2023)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mp_2005/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/madhavp2023)
-
+<div align="left">
+  <p align="left">
+    <a href="https://www.linkedin.com/in/madhav-p-156b9b290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn" height="50" width="60" /></a>
+    <img width="15" />
+    <a href="https://www.hackerrank.com/madhavp2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhav's HackerRank" height="50" width="60" /></a>
+    <a href="https://www.interviewbit.com/profile/dl2ug3ndk6" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/500/interviewbit.png" alt="Madhav's Interviewbit" height="50" width="60" /></a>
+    <img width="15" />
+    <a href="mailto:madhavp2023@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Madhav's Gmail" height="50" width="60" /></a>
+    <img width="15" />
+    <a href="https://wa.me/919353270062" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="Madhav's WhatsApp" height="50" width="60" /></a>
+    <img width="15" />
+    <a href="https://discord.gg/dReaKKZpzr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Madhav's Discord" height="50" width="60" /></a>
+    <img width="15" />
+    <a href="https://t.me/Madhavp2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Madhav's Telegram" height="50" width="60" /></a>
+    <img width="15" />
+    <a href="https://leetcode.com/u/mp_2005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhav's LeetCode" height="50" width="60" /></a>
+  </p>
 </div>
 
 ---
