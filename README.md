@@ -55,7 +55,7 @@ print(me.current_focus())
 ---
 
 ### ✍️ Random Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)                           <img align="right" height="277" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" /><img width="912" height="162" alt="image" src="https://github.com/user-attachments/assets/adaf5f03-98af-4a3a-b33d-a8aa5e29386d" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)                           
 
 ---
 
@@ -99,6 +99,8 @@ print(me.current_focus())
 <div align="left">
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React.js"/>
   <img width="15" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
+  <img width="15" />
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
   <img width="15" />    
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
@@ -112,6 +114,8 @@ print(me.current_focus())
    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/>
    <img width="15" />
    <img width="50" src="https://img.icons8.com/nolan/512/flask.png" alt="Flask" title="Flask"/>
+   <img width="15" />
+   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/>
    <img width="15" />
    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
    <img width="15" />
@@ -141,52 +145,52 @@ print(me.current_focus())
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
     <img width="15"/>
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
+    <img width="15"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 </div>
 
+### 🔧 DevOps & Version Control
 
-### ☁️ Deployment & DevOps
+<div align="left"> 
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+    <img width="15" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
+    <img width="15" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+    <img width="15" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/>
+</div>
 
-<div align="left">
+### ☁️ Cloud & Deployment
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-
+<div align="left"> 
+    <img width="50" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel"/>
+    <img width="15" />
+    <img width="50" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" title="Render"/>
 </div>
 
 ### 🧰 IDEs & Developer Tools
-<div align="center">
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<div align="left">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+    <img width="15" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/>
+    <img width="15" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/>
+    <img width="15" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React Native" title="React Native"/>
 </div>
 
 ### 🎨 Design & Diagramming
-<div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
-</div>
-
-### 🏅 Competitive Coding Platforms
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mp_2005/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/madhavp2023)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-1769FF?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/dl2ug3ndk6)
-
+<div align="left">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/>
+    <img width="15" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/>
+    <img width="15" />
+    <img width="50" src="https://cdn.brandfetch.io/idyMsPa8oV/w/180/h/180/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Excalidraw" title="Excalidraw"/>
+    <img width="15" />
+    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" alt="draw.io" title="draw.io"/>
 </div>
 
 ---
@@ -225,16 +229,6 @@ print(me.current_focus())
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=tokyonight" height="165" alt="Repos per Language"/>
   &nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhav-P-2005&theme=tokyonight" height="165" alt="Most Commit Language"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-trophies.vercel.app/?username=Madhav-P-2005&theme=tokyonight&no-frame=true&margin-w=6&column=7)
-
 </div>
 
 ---
