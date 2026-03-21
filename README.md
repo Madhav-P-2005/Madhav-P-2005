@@ -29,8 +29,8 @@ class Madhav:
         self.degree      = "BCA - 3rd Year @ K.L.E"
         self.role        = "Full Stack Developer"
         self.goal        = ["Python Stack Dev", "Data Engineer", "Data Analyst"]
-        self.languages   = ["Python 🐍", "JavaScript", "Java", "C/C++"]
-        self.learning    = ["Django", "FastAPI", "React.js", "Cloud ☁️"]
+        self.languages   = ["Python 🐍", "JavaScript"]
+        self.learning    = ["Django", "FastAPI", "Cloud ☁️", "DevOps"]
         self.db          = ["MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"]
         self.platforms   = ["LeetCode", "HackerRank", "GFG", "InterviewBit"]
         self.interests   = ["Geopolitics", "Space", "History", "Movies", "Music 🎵"]
