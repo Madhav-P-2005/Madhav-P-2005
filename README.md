@@ -167,6 +167,8 @@ print(me.current_focus())
     <img width="50" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel"/>
     <img width="15" />
     <img width="50" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" title="Render"/>
+    <img width="15" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/>
 </div>
 
 ### 🧰 IDEs & Developer Tools
