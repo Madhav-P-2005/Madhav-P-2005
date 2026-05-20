@@ -260,7 +260,7 @@ print(me.current_focus())
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-> An intelligent financial chatbot (FinSathi 💙) powered by OpenAI GPT-4o-mini + curated knowledge base of 200+ financial terms. Provides answers with valid Investopedia citations. Full-stack: React frontend + Flask backend, deployed on Vercel & Render.
+> An intelligent, responsive financial services chatbot built with React + Vite + Tailwind on the frontend and Flask + HuggingFace on the backend. Delivers concise, cited answers to financial questions with a dual-provider LLM architecture — HuggingFace (free, primary) and OpenAI (paid, fallback).
 
 `LLM` `REST API` `Flask-CORS` `OpenAI SDK` `React Router` `Dark/Light Mode`
 
