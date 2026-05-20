@@ -59,21 +59,6 @@ print(me.current_focus())
 
 ---
 
-## 🎯 2025 Roadmap & Goals
-
-<div align="center">
-
-| 🐍 Python Stack | 📊 Data World | 🌐 Full Stack | 🌟 Open Source |
-|:-:|:-:|:-:|:-:|
-| Django REST | Data Analysis | React + Node | Contributions |
-| FastAPI | Data Engineering | REST & GraphQL | Personal Finance App |
-| Python Libraries | SQL + NoSQL | Cloud Deploy | Top-notch Websites |
-| ML Fundamentals | Pandas, NumPy | CI/CD | Portfolio Projects |
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 ### 💻 Languages
