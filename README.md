@@ -282,18 +282,18 @@ print(me.current_focus())
 
 <div align="left">
   <p align="left">
+    <a href="https://www.instagram.com/madhavp_14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="60" /></a>
+    <img width="15" />
+     <a href="https://x.com/madhavp_14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="X / Twitter" height="50" width="60" /></a>
+    <img width="15" />
+    <a href="https://www.facebook.com/madhavp_1405" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Facebook" height="50" width="60" /></a>
+    <img width="15" />
     <a href="https://www.linkedin.com/in/madhav-p-156b9b290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn" height="50" width="60" /></a>
     <img width="15" />
     <a href="https://www.hackerrank.com/madhavp2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhav's HackerRank" height="50" width="60" /></a>
     <img width="15" />
     <a href="https://leetcode.com/u/mp_2005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhav's LeetCode" height="50" width="60" /></a>
     <img width="15" />
-    <a href="https://x.com/madhavp_14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="X / Twitter" height="50" width="60" /></a>
-    <img width="10" />
-    <a href="https://www.instagram.com/madhavp_14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="60" /></a>
-    <img width="10" />
-    <a href="https://www.facebook.com/madhavp_1405" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Facebook" height="50" width="60" /></a>
-    <img width="10" />
     <a href="mailto:madhavp2023@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Madhav's Gmail" height="50" width="60" /></a>
     <img width="15" />
     <a href="https://discord.gg/dReaKKZpzr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Madhav's Discord" height="50" width="60" /></a>
