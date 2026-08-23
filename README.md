@@ -290,9 +290,9 @@ print(me.current_focus())
     <img width="15" />
     <a href="https://www.linkedin.com/in/madhav-p-156b9b290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn" height="50" width="60" /></a>
     <img width="15" />
-    <a href="https://www.hackerrank.com/madhavp2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhav's HackerRank" height="50" width="60" /></a>
+    <a href="https://www.hackerrank.com/profile/madhavp_14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhav's HackerRank" height="50" width="60" /></a>
     <img width="15" />
-    <a href="https://leetcode.com/u/mp_2005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhav's LeetCode" height="50" width="60" /></a>
+    <a href="https://leetcode.com/u/madhavp_14/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Madhav's LeetCode" height="50" width="60" /></a>
     <img width="15" />
     <a href="mailto:madhavp2023@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Madhav's Gmail" height="50" width="60" /></a>
     <img width="15" />
