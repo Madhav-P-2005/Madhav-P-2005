@@ -194,9 +194,8 @@ print(me.current_focus())
 
 <!-- Row: Streak left | Stats right -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=highcontrast" alt="Github Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
 </div>
 
 <br>
