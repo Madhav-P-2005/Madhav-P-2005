@@ -187,14 +187,14 @@ print(me.current_focus())
 <div align="center">
 
 <!-- Activity Graph — full width, clean purple -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=highcontrast&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true" alt="Madhav-P-2005" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&theme=highcontrast&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true" alt="Madhav-P-2005" />
 </div>
 
 <br>
 
 <!-- Row: Streak left | Stats right -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=highcontrast" alt="Madhav-P-2005" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
 </div>
