@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Python+%26+Django+Developer+%F0%9F%90%8D;Aspiring+Data+Engineer+%7C+Data+Analyst+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;Aspiring+Data+Engineer+%7C+Data+Analyst+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br>
 
@@ -26,14 +26,15 @@
 class Madhav:
     def __init__(self):
         self.name        = "Madhav P"
-        self.degree      = "BCA - 3rd Year @ K.L.E"
+        self.age         =  21
+        self.degree      = "BCA'26"
         self.role        = "Full Stack Developer"
-        self.goal        = ["Python Stack Dev", "Data Engineer", "Data Analyst"]
-        self.languages   = ["Python 🐍", "JavaScript"]
-        self.learning    = ["Django", "FastAPI", "Cloud ☁️", "DevOps"]
-        self.db          = ["MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"]
-        self.platforms   = ["LeetCode", "HackerRank", "GFG", "InterviewBit"]
-        self.interests   = ["Geopolitics", "Space", "History", "Movies", "Music 🎵"]
+        self.goal        = ["Mastering Python Full Stack Developer", "Data Engineer", "Data Analyst"]
+        self.languages   = ["Python ", "JavaScript"]
+        self.learning    = ["Django", "FastAPI", "Cloud ", "DevOps"]
+        self.db          = ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Firebase"]
+        self.platforms   = ["LeetCode", "HackerRank", "GFG"]
+        self.interests   = ["Geopolitics", "Space", "History", "Movies", "Music"]
 
     def current_focus(self):
         return "Breaking into the Data Industry 🚀 & Mastering Python Stack"
