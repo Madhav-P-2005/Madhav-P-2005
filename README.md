@@ -29,7 +29,7 @@ class Madhav:
         self.age         =  21
         self.degree      =  BCA'26
         self.role        =  Software Developer
-        self.goal        = ["Mastering Python Full Stack Developer", "Data Engineer", "Data Analyst"]
+        self.goal        = ["AI Engineer","Data Engineer", "Data Analyst"]
         self.languages   = ["Python ", "JavaScript"]
         self.learning    = ["Django", "FastAPI", "Cloud ", "DevOps"]
         self.db          = ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Firebase"]
@@ -80,7 +80,7 @@ print(me.current_focus())
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
 </div>
 
-### ⚙️ Frontend Frameworks & UI
+### 🎨 Frontend Frameworks & UI
 
 <div align="left">
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React.js"/>
@@ -94,7 +94,7 @@ print(me.current_focus())
   <img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chakra_ui.png" alt="Chakra UI" title="Chakra UI"/>
 </div>
 
-### 🐍 Backend Frameworks
+### ⚙️ Backend Frameworks
 
 <div align="left">
    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/>
