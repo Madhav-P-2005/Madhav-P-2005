@@ -28,7 +28,7 @@ class Madhav:
         self.name        =  Madhav P
         self.age         =  21
         self.degree      =  BCA'26
-        self.role        =  Software Developer
+        self.role        =  Software Engineer
         self.goal        = ["AI Engineer","Data Engineer", "Data Analyst"]
         self.languages   = ["Python ", "JavaScript"]
         self.learning    = ["Django", "FastAPI", "Cloud ", "DevOps"]
