@@ -204,7 +204,7 @@ print(me.current_focus())
 <!-- Row: Top Languages compact | Profile Summary card -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav-P-2005&show_icons=true&locale=en&theme=highcontrast" alt="Top Langs" />
-  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=highcontrast&animation=draw" alt="Top Languages per Repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhav-P-2005&theme=highcontrast&utcOffset=9" alt="Commits Graph" />
 </div>
 
