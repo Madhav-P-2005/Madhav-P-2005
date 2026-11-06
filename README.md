@@ -186,10 +186,9 @@ print(me.current_focus())
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <!-- Activity Graph — full width, clean purple -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&theme=highcontrast&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true" alt="Madhav-P-2005" />
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast&animation=draw)
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&theme=highcontrast&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true" alt="Madhav-P-2005" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast&animation=draw" />
 </div>
 
 <br>
