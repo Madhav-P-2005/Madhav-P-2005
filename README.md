@@ -200,7 +200,4 @@ print(me.current_focus())
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d13,50:302b63,100:090d13&height=120&section=footer&text=Engineered+with+Discipline+%E2%9A%A1&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
   <br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Madhav-P-2005&icon=6&color=7" alt="Visitor Count"/>
-  </a>
 </div>
