@@ -50,7 +50,7 @@ print(me.current_focus())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Madhav-P-2005&theme=radical&margin-w=6&margin-h=6&column=7&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Madhav-P-2005&theme=radical&margin-w=6&margin-h=6&column=6&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
